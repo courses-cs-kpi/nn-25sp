@@ -26,7 +26,7 @@ nav_order: 1
 - **Програмування**: написання коду на Python.
 
 Підручники
-: 1.  A Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (MLE)
+: 1. Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (MLE)
 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://github.com/dml-book/dml/releases/download/v0.1.1/main.pdf).
 
 
