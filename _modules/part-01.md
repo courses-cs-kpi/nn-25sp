@@ -13,7 +13,7 @@ title: Вступ
 
 23 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[VIDEO](https://youtu.be/Ih_xfOIlOao)]
 
 27 лют
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
