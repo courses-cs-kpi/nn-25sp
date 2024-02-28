@@ -17,7 +17,7 @@ title: Вступ
 
 27 лют
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
-  : [[Деталі](https://drive.google.com/file/d/1s_epkIQtqo1lL1gCa6-6ATtwYH4CnqFR/view?usp=sharing)]
+  : [[Деталі](https://drive.google.com/drive/folders/1AnpImNgQj3sv5Twe0ueSaSnVcnAMOkOP?usp=sharing)]
 : Дедлайн: 16 березня
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
