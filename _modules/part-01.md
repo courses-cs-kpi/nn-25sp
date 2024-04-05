@@ -6,14 +6,14 @@ title: Вступ
 
 17 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] [[VIDEO](https://youtu.be/47wELnI6vEM)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] [[ВІДЕО](https://youtu.be/47wELnI6vEM)]
 
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] [[VIDEO](https://youtu.be/ocNuyehfvfQ)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/ocNuyehfvfQ)]
 
 23 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[VIDEO](https://youtu.be/Ih_xfOIlOao)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/Ih_xfOIlOao)]
 
 27 лют
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
@@ -24,10 +24,10 @@ title: Вступ
 
 4 бер
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
-  : [[HML]()][[PDF]()] [[VIDEO]()]
+  : [[HML]()][[PDF]()] [[ВІДЕО]()]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[youtube](https://www.youtube.com/watch?v=wG_nF1awSSY)] 
+  : [[відео1](https://www.youtube.com/watch?v=wG_nF1awSSY)] [[відео2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule)]
 
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
