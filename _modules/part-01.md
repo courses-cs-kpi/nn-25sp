@@ -26,6 +26,10 @@ title: Вступ
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
   : [[HML]()][[PDF]()] [[VIDEO]()]
 
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[youtube](https://www.youtube.com/watch?v=wG_nF1awSSY)] 
+
+
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
   : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
 
