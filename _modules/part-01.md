@@ -27,7 +27,8 @@ title: Вступ
   : [[HML]()][[PDF]()] [[ВІДЕО]()]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[відео1](https://www.youtube.com/watch?v=wG_nF1awSSY)] [[відео2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule)]
+  : [[ВІДЕО1](https://www.youtube.com/watch?v=wG_nF1awSSY)] [[ВІДЕО2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule)] <br> [[backprop](https://www.youtube.com/watch?v=Ilg3gGewQ5U)]  [[calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)]
+
 
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
