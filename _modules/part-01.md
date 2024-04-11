@@ -20,14 +20,20 @@ title: Вступ
   : [[Деталі](https://drive.google.com/drive/folders/1AnpImNgQj3sv5Twe0ueSaSnVcnAMOkOP?usp=sharing)]
 : Дедлайн: 16 березня
 
-#### Очікується запис та матеріали
+#### Очікується запис
 
 4 бер
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
-  : [[HML]()][[PDF]()] [[ВІДЕО]()]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture3.pdf)] [[ВІДЕО]()]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[ВІДЕО1](https://www.youtube.com/watch?v=wG_nF1awSSY)] [[ВІДЕО2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule)] <br> [[backprop](https://www.youtube.com/watch?v=Ilg3gGewQ5U)]  [[calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)]
+
+#### Очікується 
+
+11 кві
+: **Лекція 4**{: .label .label-green } **Навчання нейронних мереж**
+  : [[HML]()][[PDF]()] [[ВІДЕО]()]
 
 
 
