@@ -20,8 +20,6 @@ title: Вступ
   : [[Деталі](https://drive.google.com/drive/folders/1AnpImNgQj3sv5Twe0ueSaSnVcnAMOkOP?usp=sharing)]
 : Дедлайн: 16 березня
 
-#### Очікується запис
-
 4 бер
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture3.pdf)] [[ВІДЕО]()]
