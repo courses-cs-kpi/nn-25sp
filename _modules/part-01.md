@@ -37,6 +37,11 @@ title: Вступ
 : **Лекція 5**{: .label .label-green } **Навчання нейронних мереж**
   : [[HML]()][[PDF]()] [[ВІДЕО]()]
 
+8 тра
+: **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
+  : [[Деталі](https://drive.google.com/drive/folders/1dafRgkROkFCdn4AVIiCz7qYjRO6AH-dt?usp=sharing)][[Промокод](https://docs.google.com/document/d/1hGic8BVhftqdlX4mKHmtywpY7i_TO_57cNGQtmE1FPU/edit?usp=sharing)]
+: Дедлайн: 20 травня
+
 
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
