@@ -27,7 +27,7 @@ nav_order: 1
 
 Підручники
 : 1. Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (UDL)
-1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://github.com/dml-book/dml/releases/download/v0.1.3/main.pdf).
+1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://github.com/dml-book/dml/releases/download/v0.1.7/main.pdf).
 
 
 ## На випадок повітряної тривоги
