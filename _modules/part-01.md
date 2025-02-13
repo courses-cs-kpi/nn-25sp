@@ -4,14 +4,14 @@ title: Вступ
 
 
 
-17 лют 
+15 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] [[ВІДЕО](https://youtu.be/47wELnI6vEM)]
 
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/ocNuyehfvfQ)]
 
-23 лют
+<!-- 23 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/Ih_xfOIlOao)]
 
@@ -40,7 +40,7 @@ title: Вступ
 8 тра
 : **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
   : [[Деталі](https://drive.google.com/drive/folders/1dafRgkROkFCdn4AVIiCz7qYjRO6AH-dt?usp=sharing)][[Промокод](https://docs.google.com/document/d/1hGic8BVhftqdlX4mKHmtywpY7i_TO_57cNGQtmE1FPU/edit?usp=sharing)]
-: Дедлайн: 20 травня
+: Дедлайн: 20 травня -->
 
 
 
