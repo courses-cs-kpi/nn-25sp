@@ -6,10 +6,10 @@ title: Вступ
 
 15 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] [[ВІДЕО](https://youtu.be/47wELnI6vEM)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/ocNuyehfvfQ)]
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture1.pdf)] 
 
 <!-- 23 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
