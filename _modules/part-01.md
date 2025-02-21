@@ -14,8 +14,8 @@ title: Вступ
 22 лют
 : **Лекція 2**{: .label .label-green } **Багатошаровий перцептрон**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture2.pdf)] 
-<!--
-27 лют
+
+<!-- 27 лют
 : **ПР #1**{: .label .label-purple} **Багатошаровий перцептрон**
   : [[Деталі](https://drive.google.com/drive/folders/1AnpImNgQj3sv5Twe0ueSaSnVcnAMOkOP?usp=sharing)]
 : Дедлайн: 16 березня
