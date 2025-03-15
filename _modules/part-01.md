@@ -32,13 +32,15 @@ title: Вступ
 : **Лекція 4**{: .label .label-green } **Навчання нейронних мереж**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture4.pdf)]
 
+
+15 бер
+: **Лекція 5**{: .label .label-green } **Згорткові мережі**
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture4.pdf)] 
+
+
+
 <!--  23 кві
-: **Лекція 4**{: .label .label-green } **Згорткові мережі**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture4.md#1)][[PDF]()] [[ВІДЕО]()]
-
 #### Очікується 
-
-
 
 8 тра
 : **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
