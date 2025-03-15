@@ -35,7 +35,7 @@ title: Вступ
 
 15 бер
 : **Лекція 5**{: .label .label-green } **Згорткові мережі**
-  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture4.pdf)] 
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture5.pdf)] 
 
 
 
