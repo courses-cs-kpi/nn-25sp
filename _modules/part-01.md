@@ -33,7 +33,7 @@ title: Вступ
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture4.pdf)]
 
 
-15 бер
+15-22 бер
 : **Лекція 5**{: .label .label-green } **Згорткові мережі**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture5.pdf)] 
 
