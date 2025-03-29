@@ -41,7 +41,7 @@ title: Вступ
 29 бер
 : **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
   : [[Деталі](https://drive.google.com/file/d/1IZW46IisQt-arrUbxnpW3b5G2qFa6FNO/view?usp=sharing)][[Промокод](https://docs.google.com/document/d/1LXHdU3xzHo_og7Jn2ZRd2tSKAGRpwpm_TM8nhvaXkXM/edit?usp=sharing)]
-: Дедлайн: 13 квітня 
+    : **Дедлайн**: 13 квітня 
 
 <!--  23 кві
 #### Очікується -->
