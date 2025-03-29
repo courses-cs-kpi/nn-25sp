@@ -38,14 +38,15 @@ title: Вступ
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture5.pdf)] 
 
 
+29 бер
+: **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
+  : [[Деталі](https://drive.google.com/file/d/1IZW46IisQt-arrUbxnpW3b5G2qFa6FNO/view?usp=sharing)][[Промокод](https://docs.google.com/document/d/1LXHdU3xzHo_og7Jn2ZRd2tSKAGRpwpm_TM8nhvaXkXM/edit?usp=sharing)]
+: Дедлайн: 13 квітня 
 
 <!--  23 кві
-#### Очікується 
+#### Очікується -->
 
-8 тра
-: **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
-  : [[Деталі](https://drive.google.com/drive/folders/1dafRgkROkFCdn4AVIiCz7qYjRO6AH-dt?usp=sharing)][[Промокод](https://docs.google.com/document/d/1hGic8BVhftqdlX4mKHmtywpY7i_TO_57cNGQtmE1FPU/edit?usp=sharing)]
-: Дедлайн: 20 травня -->
+
 
 
 
