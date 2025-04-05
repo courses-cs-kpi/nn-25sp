@@ -43,6 +43,10 @@ title: Вступ
   : [[Деталі](https://drive.google.com/file/d/1IZW46IisQt-arrUbxnpW3b5G2qFa6FNO/view?usp=sharing)][[Промокод](https://docs.google.com/document/d/1LXHdU3xzHo_og7Jn2ZRd2tSKAGRpwpm_TM8nhvaXkXM/edit?usp=sharing)]
     : **Дедлайн**: 13 квітня 
 
+5 кві
+: **Лекція 6**{: .label .label-green } **Комп'ютерний зір І**
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture6.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture6.pdf)] 
+
 <!--  23 кві
 #### Очікується -->
 
