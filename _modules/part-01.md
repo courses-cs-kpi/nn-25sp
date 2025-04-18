@@ -47,6 +47,10 @@ title: Вступ
 : **Лекція 6**{: .label .label-green } **Комп'ютерний зір І**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture6.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture6.pdf)] 
 
+19 кві
+: **Лекція 7**{: .label .label-green } **Комп'ютерний зір ІІ**
+  : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture7.pdf)] 
+
 <!--  23 кві
 #### Очікується -->
 
