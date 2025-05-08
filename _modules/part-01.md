@@ -51,6 +51,11 @@ title: Вступ
 : **Лекція 7**{: .label .label-green } **Комп'ютерний зір ІІ**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture7.pdf)] 
 
+08 тра
+: **Проєкт**{: .label .label-purple} **Оцiнка ефективностi архiтектур нейронних мереж**
+  : [[Деталі](https://drive.google.com/drive/folders/1H-vzOZ3x4vB8TMxD82YI0u_xKloWpKeN?usp=sharing)]
+    : **Дедлайн**: 25 травня
+
 <!--  23 кві
 #### Очікується -->
 
