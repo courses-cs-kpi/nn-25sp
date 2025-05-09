@@ -56,7 +56,7 @@ title: Вступ
   : [[Деталі](https://drive.google.com/drive/folders/1H-vzOZ3x4vB8TMxD82YI0u_xKloWpKeN?usp=sharing)]
     : **Дедлайн**: 25 травня
 
-10 трав
+10 тра
 : **Лекція 8**{: .label .label-green } **Рекурентні нейронні мережі**
   : [[HML](https://ykochura.github.io/nn-kpi/?p=lecture8.md#1)][[PDF](https://ykochura.github.io/nn-kpi/pdf/lecture8.pdf)] 
 
